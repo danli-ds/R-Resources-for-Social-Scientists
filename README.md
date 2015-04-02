@@ -1,25 +1,28 @@
-This is a collection of resources about [R][1]. 
+This is a collection of resources about [R](http://www.r-project.org/) for social scientists.
 
 Credits:
-- [R Programming Language][2] on StackOverview.com by [David Locke][3]
-- [awesome-R][4] by [Qin Wenfeng][5]
+- [R Programming Language](http://stackoverflow.com/tags/r/info) on StackOverview.com by [David Locke](http://stackoverflow.com/users/1447/david-locke)
+- [awesome-R](https://github.com/qinwf/awesome-R) by [Qin Wenfeng](http://qinwenfeng.com/)
 
-## [Official CRAN Documentation][10]
+## [The Official R Manuals](http://cran.r-project.org/manuals.html)
 
-* [_An Introduction to R_][11] ([PDF][12], [epub][13]), a basic introduction for beginners.
-* [_R Data Import/Export_][14] ([PDF][15], [epub][16]), a data import and export guide.
-* [_R Installation and Administration_][17] ([PDF][18], [epub][19]), an installation guide (from R source code).
-* [_Writing R Extensions_][20] ([PDF][21], [epub][22]), a development guide for R.
-* [_The R Language Definition_][23] ([PDF][24], [epub][25]), a more technical discussion of the R language itself.
-* [_R Internals_][26] ([PDF][27], [epub][28]), internal structures and coding guidelines.
-* _R Reference Index_ ([PDF][29]), contains all help files of the R standard and recommended packages in printable form.
-* The manual [_CRAN Repository Policy_][30] ([PDF][31]) describes the policies in place for the CRAN package repository.
+* [_An Introduction to R_](http://cran.r-project.org/doc/manuals/r-devel/R-intro.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-intro.pdf)), a basic introduction for beginners.
+* [_R Data Import/Export_](http://cran.r-project.org/doc/manuals/r-devel/R-data.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-data.pdf)), a data import and export guide.
+* [_Writing R Extensions_](http://cran.r-project.org/doc/manuals/r-devel/R-exts.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-exts.pdf)), a development guide for R.
+* [_The R Language Definition_](http://cran.r-project.org/doc/manuals/r-devel/R-lang.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-lang.pdf)), a more technical discussion of the R language itself.
+* [_R Internals_](http://cran.r-project.org/doc/manuals/r-devel/R-ints.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-ints.pdf)), internal structures and coding guidelines.
+* _R Reference Index_ ([PDF](http://cran.r-project.org/doc/manuals/r-devel/fullrefman.pdf)), contains all help files of the R standard and recommended packages in printable form.
 
 ## Other CRAN resources
 
-* [Packages in the standard library][32]
-* [R mailing lists][33]
-* [Task Views][34] - Summary of useful packages by subject area. 
+* [Packages in the standard library](http://stat.ethz.ch/R-manual/R-patched/doc/html/packages.html)
+* [R mailing lists](http://www.r-project.org/mail.html): [The R-help Archives](https://stat.ethz.ch/pipermail/r-help/)
+* [Task Views](http://cran.r-project.org/web/views/) - Summary of useful packages by subject area.
+  - [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html)
+  - [Official Statistics & Survey Methodology](Official Statistics & Survey Methodology)
+  - [Reproducible Research](http://cran.r-project.org/web/views/ReproducibleResearch.html)
+  - [Robust Statistical Methods](http://cran.r-project.org/web/views/Robust.html)
+  - [Statistics for the Social Sciences](http://cran.r-project.org/web/views/SocialSciences.html)
 * [Free books][35], [commercially available books][36] and [other documents][37] on R in a variety of languages.
 * [The R Journal][38] lists research articles and summaries of major revisions.
 * [R FAQ][39] - Official list of R FAQs on CRAN
@@ -76,7 +79,7 @@ Credits:
 * The [_knitr_][88] site by Yihui Xie has resources on reproducible research using that package
 * [_R by example_][89] by Ajay Shah
 * [_R language for programmers_][90] by John D. Cook
-* [_Hands on dplyr tutorial_][91] for faster data manipulation in R 
+* [_Hands on dplyr tutorial_][91] for faster data manipulation in R
 
 ## Stack Overflow resources
 
