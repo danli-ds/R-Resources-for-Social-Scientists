@@ -1,8 +1,4 @@
-This is a collection of resources about [R](http://www.r-project.org/) for social scientists.
-
-Credits:
-- [R Programming Language](http://stackoverflow.com/tags/r/info) on StackOverview.com by [David Locke](http://stackoverflow.com/users/1447/david-locke)
-- [awesome-R](https://github.com/qinwf/awesome-R) by [Qin Wenfeng](http://qinwenfeng.com/)
+This is a collection of resources related to [R](http://www.r-project.org/) for social scientists.
 
 ## [The Official R Manuals](http://cran.r-project.org/manuals.html)
 
@@ -23,10 +19,9 @@ Credits:
   - [Reproducible Research](http://cran.r-project.org/web/views/ReproducibleResearch.html)
   - [Robust Statistical Methods](http://cran.r-project.org/web/views/Robust.html)
   - [Statistics for the Social Sciences](http://cran.r-project.org/web/views/SocialSciences.html)
-* [Free books][35], [commercially available books][36] and [other documents][37] on R in a variety of languages.
-* [The R Journal][38] lists research articles and summaries of major revisions.
-* [R FAQ][39] - Official list of R FAQs on CRAN
-* [R bug tracking system][40] - Report bugs in base-R here.
+* [Free books](http://cran.r-project.org/doc/contrib/), [commercially available books](http://www.r-project.org/doc/bib/R-books.html) and [other user-contributed documents](http://cran.r-project.org/other-docs.html) ([English](http://cran.r-project.org/other-docs.html#english) and [Chinese](http://cran.r-project.org/other-docs.html#nenglish)) on R in a variety of languages.
+* [The R Journal](http://journal.r-project.org/archive/) publishes research articles and summaries of major revisions.
+* [R FAQ](http://cran.r-project.org/doc/FAQ/R-FAQ.html) - Official list of R FAQs on CRAN
 
 ## Free Resources
 
@@ -40,31 +35,47 @@ Credits:
 * [_DataCamp_][46] - Master the basics of R
 * [_edX_][47] - Basic Statistics and R (basic course, not just for life sciences)
 
-### Free books on R:
+### Free books on R
 
-* [_The R Inferno_][48] ([PDF][49]) by Patrick Burns
-* [_A Little Book of R for Biomedical Statistics_][50] ([PDF][51]) by Avril Coghlan
-* [_A Little Book of R for Multivariate Analysis_][52] ([PDF][53]) by Avril Coghlan
-* [_A Little Book of R for Time Series_][54] ([PDF][55]) by Avril Coghlan
-* _Spatial Epidemiology Notes - Applications and Vignettes in R_ ([PDF][56]) by Charles DiMaggio
-* _P9489 Practicals and Exercises_ ([PDF][57]) by Charles DiMaggio
-* [_Practical Regression and Anova in R_][58] ([PDF][59]) by Julian Faraway
+* [_The R Inferno_](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
+* [_Impatient R_](http://www.burns-stat.com/documents/tutorials/impatient-r/) by Patrick Burns
+* [_A Little Book of R for Biomedical Statistics_](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/index.html) ([PDF](https://media.readthedocs.org/pdf/a-little-book-of-r-for-biomedical-statistics/latest/a-little-book-of-r-for-biomedical-statistics.pdf)) by Avril Coghlan
+* [_A Little Book of R for Multivariate Analysis_](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/) ([PDF](https://media.readthedocs.org/pdf/little-book-of-r-for-multivariate-analysis/latest/little-book-of-r-for-multivariate-analysis.pdf)) by Avril Coghlan
+* [_A Little Book of R for Time Series_](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/) ([PDF](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)) by Avril Coghlan
+* [_Practical Regression and Anova in R_][58](http://www.maths.bath.ac.uk/~jjf23/book/) ([PDF](http://www.maths.bath.ac.uk/~jjf23/book/pra.pdf)) by Julian Faraway
 * _Multivariate Statistics with R_ ([PDF][60]) by Paul Hewson
-* [_learnR_][61] by Yun Ken
-* [_Introduction to Probability and Statistics Using R_][62] by G. Jay Kerns
-* [_Introduction to Statistical Thought_][63] ([PDF][64]) by Michael Lavine
-* [_The Undergraduate Guide to R_][65] ([PDF][66]) by Trevor Martin
-* [_R for SAS and SPSS Users_][67] ([PDF][68]) by Bob Muenchen (early draft only)
-* [_Learning Statistics with R_][69] ([PDF][70]) by Dan Navarro
-* [_R Succinctly_][71] by Barton Poulsen (registration required)
-* [_An introduction to psychometric theory with applications in R_][72] by William Revelle
-* [_Rabbit_][73] by Nicola Sturaro
-* [_Advanced R Programming_][74] by Hadley Wickham
-* [_R Packages_][75] by Hadley Wickham
-* [_Introduction to Statistical Thinking (With R, Without Calculus)_][76] ([PDF][77]) by Benjamin Yakir
+* [_learnR_](http://renkun.me/learnR/index.html) by Yun Ken
+* [_Introduction to Probability and Statistics Using R_](http://ipsur.org/) by G. Jay Kerns
+* [_Introduction to Statistical Thought_](http://people.math.umass.edu/~lavine/Book/book.html) ([PDF](http://people.math.umass.edu/~lavine/Book/book.pdf)) by Michael Lavine
+* [simpleR – Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) by John Verzani
+* [_The Undergraduate Guide to R_](https://sites.google.com/site/undergraduateguidetor/manual-files) ([PDF](https://sites.google.com/site/undergraduateguidetor/manual-files)) by Trevor Martin
+* [_R for SAS and SPSS Users_](http://r4stats.com/books/r4sas-spss/) ([PDF](https://science.nature.nps.gov/im/datamgmt/statistics/r/documents/r_for_sas_spss_users.pdf)) by Bob Muenchen (early draft only)
+* [_Learning Statistics with R_](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) ([PDF](http://health.adelaide.edu.au/psychology/ccs/docs/lsr/lsr-0.5.pdf)) by Dan Navarro
+* [_R Succinctly_](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) by Barton Poulsen (registration required)
+* [_An introduction to psychometric theory with applications in R_](http://www.personality-project.org/r/book/) by William Revelle
+* [_Using R for psychological research: A simple guide to an elegant language_](http://personality-project.org/r/r.guide.html) by William Revelle [Shorter version](http://personality-project.org/r/r.short.html)
+* [_Rabbit: Introduction to R_](http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/) by Nicola Sturaro
+* [_Advanced R_](http://adv-r.had.co.nz/) by Hadley Wickham
+* [_R Packages_](http://r-pkgs.had.co.nz/) by Hadley Wickham
+* [_Introduction to Statistical Thinking (With R, Without Calculus)_](http://pluto.huji.ac.il/~msby/StatThink/index.html) ([PDF](http://pluto.huji.ac.il/~msby/StatThink/IntroStat.pdf)) by Benjamin Yakir
 * [_R Programming wikibook_](http://en.wikibooks.org/wiki/R_Programming) - A collaborative textbook
+* [The openair manual open-source tools for analysing air pollution data](http://www.openair-project.org/PDF/OpenAir_Manual.pdf) by [David C. Carslaw](https://github.com/davidcarslaw)
 
-### Programming Chrestomathy (problems written in many languages)
+### Cheatsheets
+
+### R-related Courses
+* [Application of Epidemologic Resarch Methods II (P9489)](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-6/) by Charles DiMaggio
+* Courses taught by [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/), one of the creators of R, at University of Auckland
+  - [Statistics 782 - Statistical Computing (graduate)](https://www.stat.auckland.ac.nz/~stat782/)
+  - [Statistics 787 - Statistical Graphics (Graduate)](http://www.stat.auckland.ac.nz/~ihaka/courses/787)
+  - [Statistics 726 - Time Series Analysis (Graduate)](http://www.stat.auckland.ac.nz/~ihaka/courses/726)
+  - [Statistics 380 - Statistical Computing (Undergraduate)](http://www.stat.auckland.ac.nz/~stat380)
+* [Psychology 405: Psychometric Theory](http://personality-project.org/revelle/syllabi/405.syllabus.html) by William Revelle at Northwestern University
+
+### R-related Presentations and Talks
+* [Managing large datasets in R – ff examples and concepts](http://www.slideshare.net/ajayohri/bitff21-2-wuvienna2010) by Jens Oehlschlãgel
+
+### Programming chrestomathy (problems written in many languages)
 
 * [Rosetta Code][78]
 * [Learn X in Y minutes][79]
@@ -108,6 +119,7 @@ Recommended additional R resources include:
 * [RSeek][129] - A search engine for R.
 * [Cookbook for R][131] - Solutions to common tasks in analyzing data.
 * [Quick-R][132] - Accessing the power of R. Maintained by Rob Kabacoff, author of [R in Action](http://www.manning.com/kabacoff2/)
+* [R for cats and cat lovers](http://rforcats.net/)
 * [R-bloggers][135] - R blog aggregator.
 * [Inside-R][136] and the [R Graphical Manual][137] - Enhanced versions of CRAN's R Reference Index.
 * [Rexamine][138] - Documentation and annotation of R's C source code.
@@ -171,83 +183,10 @@ Recommended additional R resources include:
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
 * [Rocker](https://github.com/rocker-org) - R configurations for Docker.
 
-  [1]: http://www.r-project.org "R project homepage"
-  [2]: http://stackoverflow.com/tags/r/info
-  [3]: http://stackoverflow.com/users/1447/david-locke
-  [4]: https://github.com/qinwf/awesome-R
-  [5]: http://qinwenfeng.com/
-  [6]: http://www.r-project.org/contributors.html
-  [7]: http://cran.r-project.org "CRAN The Comprehensive R Archive Network"
-  [8]: http://stackoverflow.com/tags/r/info
-  [9]: http://stackoverflow.com/users/1447/david-locke
-  [10]: http://cran.r-project.org/manuals.html
-  [11]: http://cran.r-project.org/doc/manuals/r-devel/R-intro.html
-  [12]: http://cran.r-project.org/doc/manuals/r-devel/R-intro.pdf
-  [13]: http://cran.r-project.org/doc/manuals/r-devel/R-intro.epub
-  [14]: http://cran.r-project.org/doc/manuals/r-devel/R-data.html
-  [15]: http://cran.r-project.org/doc/manuals/r-devel/R-data.pdf
-  [16]: http://cran.r-project.org/doc/manuals/r-devel/R-data.epub
-  [17]: http://cran.r-project.org/doc/manuals/r-devel/R-admin.html
-  [18]: http://cran.r-project.org/doc/manuals/r-devel/R-admin.pdf
-  [19]: http://cran.r-project.org/doc/manuals/r-devel/R-admin.epub
-  [20]: http://cran.r-project.org/doc/manuals/r-devel/R-exts.html
-  [21]: http://cran.r-project.org/doc/manuals/r-devel/R-exts.pdf
-  [22]: http://cran.r-project.org/doc/manuals/r-devel/R-exts.epub
-  [23]: http://cran.r-project.org/doc/manuals/r-devel/R-lang.html
-  [24]: http://cran.r-project.org/doc/manuals/r-devel/R-lang.pdf
-  [25]: http://cran.r-project.org/doc/manuals/r-devel/R-lang.epub
-  [26]: http://cran.r-project.org/doc/manuals/r-devel/R-ints.html
-  [27]: http://cran.r-project.org/doc/manuals/r-devel/R-ints.pdf
-  [28]: http://cran.r-project.org/doc/manuals/r-devel/R-ints.epub
-  [29]: http://cran.r-project.org/doc/manuals/r-devel/fullrefman.pdf
-  [30]: http://cran.r-project.org/web/packages/policies.html
-  [31]: http://cran.r-project.org/web/packages/policies.pdf
-  [32]: http://stat.ethz.ch/R-manual/R-patched/doc/html/packages.html
-  [33]: http://www.r-project.org/mail.html
-  [34]: http://cran.r-project.org/web/views/
-  [35]: http://cran.r-project.org/doc/contrib/
-  [36]: http://www.r-project.org/doc/bib/R-books.html
-  [37]: http://cran.r-project.org/other-docs.html
-  [38]: http://journal.r-project.org/
-  [39]: http://cran.r-project.org/doc/FAQ/R-FAQ.html
-  [40]: https://bugs.r-project.org/bugzilla3/
-  [41]: http://www.codeschool.com/courses/try-r
-  [42]: http://www.datamind.org
-  [43]: http://rpubs.com
-  [44]: http://swirlstats.com
-  [45]: https://www.coursera.org/course/rprog
-  [46]: https://www.datacamp.com/courses/introduction-to-r
-  [47]: https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x
-  [48]: http://www.burns-stat.com/documents/books/the-r-inferno/
-  [49]: http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
-  [50]: http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/index.html
-  [51]: https://media.readthedocs.org/pdf/a-little-book-of-r-for-biomedical-statistics/latest/a-little-book-of-r-for-biomedical-statistics.pdf
-  [52]: http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/index.html
-  [53]: https://media.readthedocs.org/pdf/little-book-of-r-for-multivariate-analysis/latest/little-book-of-r-for-multivariate-analysis.pdf
-  [54]: http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/index.html
-  [55]: https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf
-  [56]: http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf
-  [57]: http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf
-  [58]: http://www.maths.bath.ac.uk/~jjf23/book/
-  [59]: http://www.maths.bath.ac.uk/%7Ejjf23/book/pra.pdf
-  [60]: http://local.disia.unifi.it/rampichini/analisi_multivariata/Hewson_notes.pdf
-  [61]: http://renkun.me/learnR/
-  [62]: http://ipsur.org/
-  [63]: http://people.math.umass.edu/~lavine/Book/book.html
-  [64]: http://people.math.umass.edu/~lavine/Book/book.pdf
-  [65]: https://sites.google.com/site/undergraduateguidetor/
-  [66]: https://sites.google.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf
-  [67]: http://r4stats.com/downloads/
-  [68]: http://r4stats.com/downloads/
-  [69]: http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/
-  [70]: http://health.adelaide.edu.au/psychology/ccs/docs/lsr/lsr-0.4.pdf
-  [71]: http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly
-  [72]: http://www.personality-project.org/r/book/
-  [73]: http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/
-  [74]: http://adv-r.had.co.nz/
-  [75]: http://r-pkgs.had.co.nz/
-  [76]: http://pluto.huji.ac.il/~msby/StatThink/index.html
-  [77]: http://pluto.huji.ac.il/%7Emsby/StatThink/IntroStat.pdf
+## Credits:
+- Introduction of [R Programming Language](http://stackoverflow.com/tags/r/info) on StackOverview by [David Locke](http://stackoverflow.com/users/1447/david-locke)
+- [awesome-R](https://github.com/qinwf/awesome-R) by [Qin Wenfeng](https://github.com/qinwf)
+
   [78]: http://rosettacode.org/wiki/Category:R
   [79]: http://learnxinyminutes.com/docs/r/
   [80]: http://golf.shinh.org/l.rb?r
