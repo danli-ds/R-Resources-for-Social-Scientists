@@ -19,11 +19,11 @@ Credits:
 
 * [Packages in the standard library][32]
 * [R mailing lists][33]
-* [Task Views][34] - summary of useful packages by subject area. 
+* [Task Views][34] - Summary of useful packages by subject area. 
 * [Free books][35], [commercially available books][36] and [other documents][37] on R in a variety of languages.
 * [The R Journal][38] lists research articles and summaries of major revisions.
 * [R FAQ][39] - Official list of R FAQs on CRAN
-* [R bug tracking system][40] - report bugs in base-R here.
+* [R bug tracking system][40] - Report bugs in base-R here.
 
 ## Free Resources
 
@@ -85,7 +85,7 @@ Credits:
 * [How to make a great R reproducible example][94]
 * [What is the most useful R trick?][95]
 * [How to get help in R?][96]
-* [tag:r-faq] - Tag for frequently asked R questions on StackOverflow
+* [r-faq](http://stackoverflow.com/questions/tagged/r-faq) - Tag for frequently asked R questions on StackOverflow
 * The [overflow][97] package, to assist with answering SO questions.
 
 ## Code style guides
@@ -102,16 +102,16 @@ Credits:
 
 Recommended additional R resources include:
 
-* [RSeek][129] - a search engine for R.
-* [Cookbook for R][131] - solutions to common tasks in analyzing data.
-* [Quick-R][132] - accessing the power of R.
+* [RSeek][129] - A search engine for R.
+* [Cookbook for R][131] - Solutions to common tasks in analyzing data.
+* [Quick-R][132] - Accessing the power of R. Maintained by Rob Kabacoff, author of [R in Action](http://www.manning.com/kabacoff2/)
 * [R-bloggers][135] - R blog aggregator.
-* [Inside-R][136] and the [R Graphical Manual][137] - enhanced versions of CRAN's R Reference Index.
-* [Rexamine][138] - documentation and annotation of R's C source code.
-* [Planet R][139] R package release aggregator (includes many sources outside of CRAN).
-* [Pluralsight Course][140] - online video course for beginners.
-* [crantastic][141] R package review site.
-* [CRANberries][142] - news feed on CRAN package updates.
+* [Inside-R][136] and the [R Graphical Manual][137] - Enhanced versions of CRAN's R Reference Index.
+* [Rexamine][138] - Documentation and annotation of R's C source code.
+* [Planet R][139] - R package release aggregator (includes many sources outside of CRAN).
+* [Pluralsight Course][140] - Online video course for beginners.
+* [crantastic][141] - R package review site.
+* [CRANberries][142] - News feed on CRAN package updates.
 * [Rattle][143] - GUI for data mining using R
 * [Rdocumentation][144] - R domain search engine
 
@@ -160,7 +160,7 @@ Recommended additional R resources include:
 
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
 * [testthat](https://github.com/hadley/testthat) - An R package to make testing fun.
-* [R6](https://github.com/wch/R6) - simpler, faster, lighter-weight alternative to R's built-in classes.
+* [R6](https://github.com/wch/R6) - Simpler, faster, lighter-weight alternative to R's built-in classes.
 * [pryr](https://github.com/hadley/pryr) -  Make it easier to understand what's going on in R.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe your functions in comments next to their definitions.
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
