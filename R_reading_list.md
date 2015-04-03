@@ -134,6 +134,8 @@ Lawrence, M., & Verzani, J. (2012). Programming Graphical User Interfaces in R (
 
 Leipzig, J., & Li, X.-Y. (2011). Data Mashups in R (pp. 1–38). O'Reilly.
 
+Liu, S. (2013). R常见问题解答 (pp. 1–48).
+
 Lynch, S. M. (2007). Introduction to Applied Bayesian Statistics and Estimation for Social Scientists (pp. 
 1–375). Springer.
 
