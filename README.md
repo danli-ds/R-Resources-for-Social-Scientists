@@ -32,8 +32,8 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [A Little Book of R for Biomedical Statistics](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/index.html) ([PDF](https://media.readthedocs.org/pdf/a-little-book-of-r-for-biomedical-statistics/latest/a-little-book-of-r-for-biomedical-statistics.pdf)) by Avril Coghlan
 * [A Little Book of R for Multivariate Analysis](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/) ([PDF](https://media.readthedocs.org/pdf/little-book-of-r-for-multivariate-analysis/latest/little-book-of-r-for-multivariate-analysis.pdf)) by Avril Coghlan
 * [A Little Book of R for Time Series](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/) ([PDF](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)) by Avril Coghlan
-* [Practical Regression and Anova in R][58](http://www.maths.bath.ac.uk/~jjf23/book/) ([PDF](http://www.maths.bath.ac.uk/~jjf23/book/pra.pdf)) by Julian Faraway
-* Multivariate Statistics with R ([PDF][60]) by Paul Hewson
+* [Practical Regression and Anova Using R](http://www.maths.bath.ac.uk/~jjf23/book/) ([PDF](http://www.maths.bath.ac.uk/~jjf23/book/pra.pdf)) by Julian Faraway
+* Multivariate Statistics with R ([PDF](http://local.disia.unifi.it/rampichini/analisi_multivariata/Hewson_notes.pdf)) by Paul Hewson
 * [learnR](http://renkun.me/learnR/index.html) by Yun Ken
 * [Introduction to Probability and Statistics Using R](http://ipsur.org/) by G. Jay Kerns
 * [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) ([PDF](http://people.math.umass.edu/~lavine/Book/book.pdf)) by Michael Lavine
@@ -41,9 +41,8 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [The Undergraduate Guide to R](https://sites.google.com/site/undergraduateguidetor/manual-files) ([PDF](https://sites.google.com/site/undergraduateguidetor/manual-files)) by Trevor Martin
 * [R for SAS and SPSS Users](http://r4stats.com/books/r4sas-spss/) ([PDF](https://science.nature.nps.gov/im/datamgmt/statistics/r/documents/r_for_sas_spss_users.pdf)) by Bob Muenchen (early draft only)
 * [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) ([PDF](http://health.adelaide.edu.au/psychology/ccs/docs/lsr/lsr-0.5.pdf)) by Dan Navarro
-* [R Succinctly](http://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) by Barton Poulsen (registration required)
 * [An introduction to psychometric theory with applications in R](http://www.personality-project.org/r/book/) by William Revelle
-* [Using R for psychological research: A simple guide to an elegant language](http://personality-project.org/r/r.guide.html) by William Revelle [Shorter version](http://personality-project.org/r/r.short.html)
+* [Using R for psychological research: A simple guide to an elegant language](http://personality-project.org/r/r.guide.html) by William Revelle ([Shorter version](http://personality-project.org/r/r.short.html))
 * [Rabbit: Introduction to R](http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/) by Nicola Sturaro
 * [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
 * [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
@@ -60,6 +59,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
   - [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
   - [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
   - [Shiny Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
+* [R Functions For Regression Analysis](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) by Vito Ricci
 
 #### Interactive R learning
 
@@ -172,6 +172,7 @@ Recommended additional R resources include:
 
 * [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -  Export tables to LaTeX or HTML.
+* [sjPlot](http://cran.r-project.org/package=sjPlot) - Data Visualization for Statistics in Social Science
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
