@@ -1,4 +1,4 @@
-This is a collection of resources related to [R](http://www.r-project.org/) for social scientists.
+This is my collection of resources related to [R](http://www.r-project.org/).
 
 ## [The Official R Manuals](http://cran.r-project.org/manuals.html)
 
@@ -9,31 +9,21 @@ This is a collection of resources related to [R](http://www.r-project.org/) for 
 * [R Internals](http://cran.r-project.org/doc/manuals/r-devel/R-ints.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-ints.pdf)), internal structures and coding guidelines.
 * R Reference Index ([PDF](http://cran.r-project.org/doc/manuals/r-devel/fullrefman.pdf)), contains all help files of the R standard and recommended packages in printable form.
 
-## Other CRAN resources
+## Other CRAN Resources
 
 * [Packages in the standard library](http://stat.ethz.ch/R-manual/R-patched/doc/html/packages.html)
 * [R mailing lists](http://www.r-project.org/mail.html): [The R-help Archives](https://stat.ethz.ch/pipermail/r-help/)
 * [Task Views](http://cran.r-project.org/web/views/) - Summary of useful packages by subject area.
   - [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html)
-  - [Official Statistics & Survey Methodology](Official Statistics & Survey Methodology)
+  - [Official Statistics & Survey Methodology](http://cran.r-project.org/web/views/OfficialStatistics.html)
   - [Reproducible Research](http://cran.r-project.org/web/views/ReproducibleResearch.html)
   - [Robust Statistical Methods](http://cran.r-project.org/web/views/Robust.html)
   - [Statistics for the Social Sciences](http://cran.r-project.org/web/views/SocialSciences.html)
 * [Free books](http://cran.r-project.org/doc/contrib/), [commercially available books](http://www.r-project.org/doc/bib/R-books.html) and [other user-contributed documents](http://cran.r-project.org/other-docs.html) ([English](http://cran.r-project.org/other-docs.html#english) and [Chinese](http://cran.r-project.org/other-docs.html#nenglish)) on R in a variety of languages.
 * [The R Journal](http://journal.r-project.org/archive/) publishes research articles and summaries of major revisions.
-* [R FAQ](http://cran.r-project.org/doc/FAQ/R-FAQ.html) - Official list of R FAQs on CRAN
+* [R FAQ](http://cran.r-project.org/doc/FAQ/R-FAQ.html) - Official list of R FAQs
 
 ## Free Resources
-
-### Interactive R learning
-
-* [Try R][41] - An interactive web-based R tutorial
-* [Datamind][42] - Learn R data analysis interactively
-* [RPubs][43] - Easy web publishing from R
-* [Swirl][44] - R-package to learn R interactively
-* [Coursera][45] - Learn how to use R for effective data analysis
-* [DataCamp][46] - Master the basics of R
-* [edX][47] - Basic Statistics and R (basic course, not just for life sciences)
 
 ### Free books on R
 
@@ -63,7 +53,29 @@ This is a collection of resources related to [R](http://www.r-project.org/) for 
 
 ### Cheatsheets
 
-### R-related Courses
+* [Cheatsheets by RStudio](http://www.rstudio.com/resources/cheatsheets/)
+  - [Data Visualization Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) - ggplot2
+  - [Package Development Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf) - devtools
+  - [Data Wrangling Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) - dplyr & tidyr
+  - [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+  - [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+  - [Shiny Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
+
+#### Interactive R learning
+
+* [Try R](http://tryr.codeschool.com/) - A free interactive web-based R tutorial
+* [Swirl][44] - R-package to learn R interactively
+
+### MOOCs and Online Courses
+
+* [R & Data Science on DataCamp](https://www.datacamp.com/courses)
+* [Introduction to Data Science with R](http://shop.oreilly.com/product/0636920034834.do) - How to Manipulate, Visualize, and Model Data with the R Language by Garrett Grolemund
+* [Coursera][45] - Learn how to use R for effective data analysis
+* [edX][47] - Basic Statistics and R (basic course, not just for life sciences)
+* [RPubs][43] - Easy web publishing from R
+
+### College-level Courses Using R
+
 * [Application of Epidemologic Resarch Methods II (P9489)](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-6/) by Charles DiMaggio
 * Courses taught by [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/), one of the creators of R, at University of Auckland
   - [Statistics 782 - Statistical Computing (graduate)](https://www.stat.auckland.ac.nz/~stat782/)
@@ -73,71 +85,66 @@ This is a collection of resources related to [R](http://www.r-project.org/) for 
 * [Psychology 405: Psychometric Theory](http://personality-project.org/revelle/syllabi/405.syllabus.html) by William Revelle at Northwestern University
 
 ### R-related Presentations and Talks
+
 * [Managing large datasets in R – ff examples and concepts](http://www.slideshare.net/ajayohri/bitff21-2-wuvienna2010) by Jens Oehlschlãgel
 
 ### Programming chrestomathy (problems written in many languages)
 
-* [Rosetta Code][78]
-* [Learn X in Y minutes][79]
-* [Anarchy golf][80]
-* [Hyperpolyglot][81] (R/MATLAB/Python)
-* [PLEAC (Programming Languages Examples Alike Cookbook)][82]
-* [Wikibook of Hello World programs][83]
+* [Rosetta Code](http://rosettacode.org/wiki/Category:R)
+* [Learn X in Y minutes](http://learnxinyminutes.com/docs/r/) ([中文版](http://learnxinyminutes.com/docs/zh-cn/r-cn/))
+* [Hyperpolyglot](http://hyperpolyglot.org/numerical-analysis) (R/MATLAB/Python)
+* [Project Euler](https://projecteuler.net/) - Try solving mathematical problems using R
 
 ### Other free resource materials
 
-* The [Journal of Statistical Software][87] has many papers about R packages
-* The [knitr][88] site by Yihui Xie has resources on reproducible research using that package
-* [R by example][89] by Ajay Shah
-* [R language for programmers][90] by John D. Cook
-* [Hands on dplyr tutorial][91] for faster data manipulation in R
+* The [Journal of Statistical Software](http://www.jstatsoft.org/) has many papers about R packages
+* The [knitr](http://yihui.name/knitr) site by Yihui Xie has resources on reproducible research using that package
+* [R by example](R by example) by Ajay Shah
+* [R language for programmers](http://www.johndcook.com/blog/r_language_for_programmers/) by John D. Cook
+* [Hands on dplyr tutorial](http://rpubs.com/justmarkham/dplyr-tutorial) for faster data manipulation in R by Kevin Markham
+
+### Video Tutorials
+
+* [Hands-on dplyr tutorial for faster data manipulation in R](https://www.youtube.com/watch?v=jWjqLW-u3hc)
+* [Going deeper with dplyr: New features in 0.3 and 0.4](https://www.youtube.com/watch?v=2mh1PqfsXVI) 
 
 ## Stack Overflow resources
 
-* [R chat][92]
-* [R-Public chat for beginners][93]
-* [How to make a great R reproducible example][94]
-* [What is the most useful R trick?][95]
-* [How to get help in R?][96]
+* [How to make a great R reproducible example](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
+* [What is the most useful R trick?](http://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
+* [How to get help in R?](http://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 * [r-faq](http://stackoverflow.com/questions/tagged/r-faq) - Tag for frequently asked R questions on StackOverflow
-* The [overflow][97] package, to assist with answering SO questions.
 
 ## Code style guides
-* [R internal coding standards][119]
-* [Bioconductor coding standards][120]
-* [Google's][121]
-* Hadley Wickham’s [standard][122] and [Stat 405][123]
-* [Colin Gillespie’s][124]
-* Henrik Bengtsson’s [basic][125] and [Aroma][126]
-* [Paul E Johnson’s][127]
-* [Richie Cotton's][128]
+* [R internal coding standards](http://cran.r-project.org/doc/manuals/R-ints.html#R-coding-standards)
+* [Bioconductor coding standards](http://master.bioconductor.org/developers/how-to/coding-style/)
+* [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
+* Hadley Wickham’s [standard](http://adv-r.had.co.nz/Style.html) and [Stat 405](http://stat405.had.co.nz/r-style.html)
+* Henrik Bengtsson’s [R Coding Coventions](https://docs.google.com/document/d/1esDVxyWvH8AsX-VJa-8oqWaHLs4stGlIbk8kLc5VlII/preview) and [Aroma RCC](https://docs.google.com/document/d/1i87u372dW_v6U2W3wa-emng0OOyV8pBI83po1RWET6M/edit)
+* [Paul E Johnson’s](http://cran.r-project.org/web/packages/rockchalk/vignettes/Rstyle.pdf)
 
 ## Other Resources
 
 Recommended additional R resources include:
 
-* [RSeek][129] - A search engine for R.
-* [Cookbook for R][131] - Solutions to common tasks in analyzing data.
-* [Quick-R][132] - Accessing the power of R. Maintained by Rob Kabacoff, author of [R in Action](http://www.manning.com/kabacoff2/)
-* [R for cats and cat lovers](http://rforcats.net/)
-* [R-bloggers][135] - R blog aggregator.
-* [Inside-R][136] and the [R Graphical Manual][137] - Enhanced versions of CRAN's R Reference Index.
-* [Rexamine][138] - Documentation and annotation of R's C source code.
-* [Planet R][139] - R package release aggregator (includes many sources outside of CRAN).
-* [Pluralsight Course][140] - Online video course for beginners.
-* [crantastic][141] - R package review site.
-* [CRANberries][142] - News feed on CRAN package updates.
-* [Rattle][143] - GUI for data mining using R
-* [Rdocumentation][144] - R domain search engine
+* [Rdocumentation](http://www.rdocumentation.org/) - Find and browse documentations for R packages
+* [Cookbook for R](http://www.cookbook-r.com/) by Winston Chang - Solutions to common tasks in analyzing data.
+* [Quick-R](http://www.statmethods.net/) by Rob Kabacoff, author of [R in Action](http://www.manning.com/kabacoff2/) - Accessing the power of R. Maintained 
+* [R for cats and cat lovers](http://rforcats.net/) - An intro to R for new programmers.
+* [R-bloggers](http://www.r-bloggers.com/) - R blog aggregator.
+* [Inside-R](http://www.inside-r.org/r-doc) and the [R Graphical Manual](http://rgm3.lab.nig.ac.jp/RGM/R_image_list?page=416&init=true) - Enhanced versions of CRAN's R Reference Index.
 
-## Syntax
+
+## R Packages
+
+### Syntax
 *Packages change the way you use R.*
 
 * [magrittr](https://github.com/smbache/magrittr) - Let's pipe it.
 * [pipeR](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
 * [lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
 
-## Data Manipulation
+### Data Manipulation
 *Packages for cooking data.*
 
 * [dplyr](https://github.com/hadley/dplyr) -  Blazing fast data frames manipulation and database query.
@@ -147,7 +154,7 @@ Recommended additional R resources include:
 * [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis objects into tidy data frames.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 
-## Graphic Displays
+### Graphic Displays
 *Packages for showing data.*
 
 * [ggplot2](https://github.com/hadley/ggplot2) -  An implementation of the Grammar of Graphics.
@@ -160,7 +167,7 @@ Recommended additional R resources include:
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 * [dygraphs](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
-## Reproducible Research
+### Reproducible Research
 *Packages for literate programming.*
 
 * [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
@@ -170,7 +177,7 @@ Recommended additional R resources include:
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using
 
-## R Development
+### R Development
 *Packages for packages.*
 
 * [devtools](https://github.com/hadley/devtools) - Tools to make an R developer's life easier.
@@ -183,84 +190,11 @@ Recommended additional R resources include:
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R.
 * [Rocker](https://github.com/rocker-org) - R configurations for Docker.
 
+### Misc
+
+* [MVN: Multivariate Normality Tests](http://cran.r-project.org/web/packages/MVN/index.html) ([Paper](http://journal.r-project.org/archive/2014-2/korkmaz-goksuluk-zararsiz.pdf))
+
 ## Credits
 
 - Introduction of [R Programming Language](http://stackoverflow.com/tags/r/info) on StackOverview by [David Locke](http://stackoverflow.com/users/1447/david-locke)
 - [awesome-R](https://github.com/qinwf/awesome-R) by [Qin Wenfeng](https://github.com/qinwf)
-
-  [78]: http://rosettacode.org/wiki/Category:R
-  [79]: http://learnxinyminutes.com/docs/r/
-  [80]: http://golf.shinh.org/l.rb?r
-  [81]: http://hyperpolyglot.org/numerical-analysis
-  [82]: http://pleac.sourceforge.net/pleac_R/index.html
-  [83]: https://en.wikibooks.org/wiki/List_of_hello_world_programs#S_.28and_R.29
-  [84]: http://www.math.umaine.edu/~hiebeler/comp/matlabR.html
-  [85]: http://www.math.umaine.edu/~hiebeler/comp/matlabR.pdf
-  [86]: http://mathesaurus.sourceforge.net/
-  [87]: http://www.jstatsoft.org/
-  [88]: http://yihui.name/knitr
-  [89]: http://www.mayin.org/ajayshah/KB/R/index.html
-  [90]: http://www.johndcook.com/blog/r_language_for_programmers/
-  [91]: http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/
-  [92]: http://chat.stackoverflow.com/rooms/106/r
-  [93]: http://chat.stackoverflow.com/rooms/25312/r-public
-  [94]: http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example
-  [95]: http://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick
-  [96]: http://stackoverflow.com/q/15289995/134830
-  [97]: https://github.com/mrdwab/oveRflow
-  [98]: http://ess.r-project.org/
-  [99]: https://www.gnu.org/software/emacs/
-  [100]: http://xemacs.org/
-  [101]: http://www.rstudio.com/ide/
-  [102]: http://www.openanalytics.eu/architect
-  [103]: http://www.eclipse.org/eclipse/
-  [104]: http://www.walware.de/goto/statet
-  [105]: http://www.revolutionanalytics.com/products/revolution-r.php
-  [106]: http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html
-  [107]: http://care.live-analytics.com/
-  [108]: http://rforge.net/JGR/
-  [109]: http://www.sciviews.org/Tinn-R/
-  [110]: http://www.sciviews.org/SciViews-K
-  [111]: http://www.activestate.com/komodo-ide
-  [112]: http://sourceforge.net/projects/npptor/
-  [113]: http://www.vim.org/scripts/script.php?script_id=2628
-  [114]: http://rgedit.sourceforge.net/
-  [115]: http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual
-  [116]: http://shiny.rstudio.com/
-  [117]: https://rforge.net/FastRWeb/
-  [118]: http://rpackages.ianhowson.com/cran/shiny/man/shiny-package.html
-  [119]: http://cran.r-project.org/doc/manuals/R-ints.html#R-coding-standards
-  [120]: http://master.bioconductor.org/developers/how-to/coding-style/
-  [121]: http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
-  [122]: http://adv-r.had.co.nz/Style.html
-  [123]: http://stat405.had.co.nz/r-style.html
-  [124]: http://csgillespie.wordpress.com/2010/11/23/r-style-guide/
-  [125]: https://docs.google.com/View?id=dddzqd53_2646dcw759cb
-  [126]: https://docs.google.com/Doc?docid=0ATuHjzgbQ0B8ZGRkenFkNTNfMjY0NTR0azd4enhj
-  [127]: http://cran.r-project.org/web/packages/rockchalk/vignettes/Rstyle.pdf
-  [128]: http://4dpiecharts.com/r-code-style-guide/
-  [129]: http://www.rseek.org/
-  [130]: http://mycroftproject.com/search-engines.html?name=rseek.org
-  [131]: http://www.cookbook-r.com/
-  [132]: http://www.statmethods.net/
-  [133]: http://en.wikipedia.org/wiki/R_%28programming_language%29
-  [134]: https://en.wikiversity.org/wiki/R
-  [135]: http://www.r-bloggers.com/
-  [136]: http://www.inside-r.org/r-doc
-  [137]: http://rgm3.lab.nig.ac.jp/RGM/R_image_list?page=416&init=true
-  [138]: http://docs.rexamine.com/R-devel/index.html
-  [139]: http://planetr.stderr.org/
-  [140]: http://www.pluralsight.com/courses/r-programming-fundamentals
-  [141]: http://crantastic.org/
-  [142]: http://dirk.eddelbuettel.com/cranberries/about/
-  [143]: http://rattle.togaware.com/
-  [144]: http://www.rdocumentation.org/
-  [145]: http://www.revolutionanalytics.com/revolution-r-open
-  [146]: http://www.oracle.com/technetwork/database/database-technologies/r/r-distribution/overview/index.html
-  [147]: http://www.oracle.com/technetwork/database/database-technologies/r/r-enterprise/overview/index.html
-  [148]: http://www.pqr-project.org/
-  [149]: http://www.cs.kent.ac.uk/people/staff/arr/
-  [150]: http://www.renjin.org/
-  [151]: http://tap.tibco.com/storefront/trialware/tibco-enterprise-runtime-for-r/prod15307.html
-  [152]: https://github.com/jtalbot/riposte
-  [153]: https://github.com/allr/fastr
