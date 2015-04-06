@@ -50,16 +50,19 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [R Programming wikibook](http://en.wikibooks.org/wiki/R_Programming) - A collaborative textbook
 * [The openair manual open-source tools for analysing air pollution data](http://www.openair-project.org/PDF/OpenAir_Manual.pdf) by [David C. Carslaw](https://github.com/davidcarslaw)
 
-### Cheatsheets
+### Cheatsheets & Reference Cards
 
 * [Cheatsheets by RStudio](http://www.rstudio.com/resources/cheatsheets/)
   - [Data Visualization Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) - ggplot2
   - [Package Development Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf) - devtools
-  - [Data Wrangling Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) - dplyr & tidyr
-  - [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+  - [Data Wrangling Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) ([中文版])(http://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf)- dplyr & tidyr
+  - [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) ([中文版])(http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-chinese.pdf)
   - [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-  - [Shiny Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
+  - [Shiny Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf) ([中文版])(http://www.rstudio.com/wp-content/uploads/2015/03/shiny-chinese.pdf)
 * [R Functions For Regression Analysis](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) by Vito Ricci
+* [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) by Matt Baggott
+* [R Reference Card for Data Mining](http://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf) by Yanchang Zhao
+* [R Reference Card Introductory Statistics](http://www.u.arizona.edu/~kuchi/Courses/MAT167/Files/R-refcard.pdf) by Anthony Tanbakuchi
 
 #### Interactive R learning
 
