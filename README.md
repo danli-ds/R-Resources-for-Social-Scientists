@@ -133,7 +133,12 @@ Recommended additional R resources include:
 * [R for cats and cat lovers](http://rforcats.net/) - An intro to R for new programmers.
 * [R-bloggers](http://www.r-bloggers.com/) - R blog aggregator.
 * [Inside-R](http://www.inside-r.org/r-doc) and the [R Graphical Manual](http://rgm3.lab.nig.ac.jp/RGM/R_image_list?page=416&init=true) - Enhanced versions of CRAN's R Reference Index.
+* [R Tutorials](http://ww2.coastal.edu/kingw/statistics/R-tutorials/) by William B. King
+* [R Tips](http://pj.freefaculty.org/R/Rtips.html) by Paul E. Johnson
 
+## Statistical Analyses Using R
+
+* [Data Analysis Examples by UCLA](http://www.ats.ucla.edu/stat/dae/)
 
 ## R Packages
 
@@ -161,7 +166,6 @@ Recommended additional R resources include:
 * [ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [lattice](http://lattice.r-forge.r-project.org/) -  A powerful and elegant high-level data visualization system.
-* [rgl](http://cran.r-project.org/web/packages/rgl/index.html) - 3D visualization device system for R.
 * [Cairo](http://cran.r-project.org/web/packages/Cairo/index.html) - R graphics device using cairo graphics library for creating high-quality display  output.
 * [extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
 * [showtext](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
@@ -172,11 +176,10 @@ Recommended additional R resources include:
 
 * [knitr](http://yihui.name/knitr/) - Easy dynamic report generation in R.
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -  Export tables to LaTeX or HTML.
-* [sjPlot](http://cran.r-project.org/package=sjPlot) - Data Visualization for Statistics in Social Science
+* [sjPlot](http://cran.r-project.org/package=sjPlot) - Data visualization for statistics in social science
 * [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown](http://rmarkdown.rstudio.com/) -  Dynamic documents for R.
 * [slidify](https://github.com/ramnathv/slidify) - Generate reproducible html5 slides from R markdown.
-* [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using
 
 ### R Development
 *Packages for packages.*
