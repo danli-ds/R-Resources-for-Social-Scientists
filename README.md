@@ -138,6 +138,8 @@ Recommended additional R resources include:
 * [Inside-R](http://www.inside-r.org/r-doc) and the [R Graphical Manual](http://rgm3.lab.nig.ac.jp/RGM/R_image_list?page=416&init=true) - Enhanced versions of CRAN's R Reference Index.
 * [R Tutorials](http://ww2.coastal.edu/kingw/statistics/R-tutorials/) by William B. King
 * [R Tips](http://pj.freefaculty.org/R/Rtips.html) by Paul E. Johnson
+* [Statistics with R](http://zoonek2.free.fr/UNIX/48_R/all.html) by Vincent Zoonekynd
+* [R Tutorial](http://www.cyclismo.org/tutorial/R/) by Kelly Black
 
 ## Statistical Analyses Using R
 
