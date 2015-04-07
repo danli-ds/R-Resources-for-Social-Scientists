@@ -109,7 +109,8 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 ### Video Tutorials
 
 * [Hands-on dplyr tutorial for faster data manipulation in R](https://www.youtube.com/watch?v=jWjqLW-u3hc)
-* [Going deeper with dplyr: New features in 0.3 and 0.4](https://www.youtube.com/watch?v=2mh1PqfsXVI) 
+* [Going deeper with dplyr: New features in 0.3 and 0.4](https://www.youtube.com/watch?v=2mh1PqfsXVI)
+* [LISA Short courses](http://www.lisa.stat.vt.edu/?q=past_courses) at VirginiaTech
 
 ## Stack Overflow resources
 
