@@ -204,6 +204,18 @@ Recommended additional R resources include:
 
 * [MVN: Multivariate Normality Tests](http://cran.r-project.org/web/packages/MVN/index.html) ([Paper](http://journal.r-project.org/archive/2014-2/korkmaz-goksuluk-zararsiz.pdf))
 
+### Hadleyverse
+
+* lubridate
+* stringr
+* tidyr
+* dplyr
+* ggplot2
+* ggvis
+* devtools
+* roxygen2
+* testthat
+
 ## Credits
 
 - Introduction of [R Programming Language](http://stackoverflow.com/tags/r/info) on StackOverview by [David Locke](http://stackoverflow.com/users/1447/david-locke)
