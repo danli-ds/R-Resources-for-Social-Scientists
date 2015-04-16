@@ -8,6 +8,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [The R Language Definition](http://cran.r-project.org/doc/manuals/r-devel/R-lang.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-lang.pdf)), a more technical discussion of the R language itself.
 * [R Internals](http://cran.r-project.org/doc/manuals/r-devel/R-ints.html) ([PDF](http://cran.r-project.org/doc/manuals/r-devel/R-ints.pdf)), internal structures and coding guidelines.
 * R Reference Index ([PDF](http://cran.r-project.org/doc/manuals/r-devel/fullrefman.pdf)), contains all help files of the R standard and recommended packages in printable form.
+* [The Statistical Sleuth (3rd Edition) In R](http://www.math.smith.edu/~nhorton/sleuth3/) by Nicholas Horton, Linda Loi, Kate Aloisio, and Ruobing Zhang
 
 ## Other CRAN Resources
 
