@@ -49,6 +49,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [Introduction to Statistical Thinking (With R, Without Calculus)](http://pluto.huji.ac.il/~msby/StatThink/index.html) ([PDF](http://pluto.huji.ac.il/~msby/StatThink/IntroStat.pdf)) by Benjamin Yakir
 * [R Programming wikibook](http://en.wikibooks.org/wiki/R_Programming) - A collaborative textbook
 * [The openair manual open-source tools for analysing air pollution data](http://www.openair-project.org/PDF/OpenAir_Manual.pdf) by [David C. Carslaw](https://github.com/davidcarslaw)
+* [Introduction to the Practice of Statistics (6th edition) in R](https://www3.amherst.edu/~nhorton/ips6e/) by Nicholas Horton and Ben Baumer
 
 ### Cheatsheets & Reference Cards
 
