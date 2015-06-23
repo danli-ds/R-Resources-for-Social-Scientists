@@ -60,7 +60,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
   - [Data Wrangling Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) ([中文版](http://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf))- dplyr & tidyr
   - [R Markdown Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) ([中文版](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-chinese.pdf))
   - [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-  - [Shiny Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf) ([中文版](http://www.rstudio.com/wp-content/uploads/2015/03/shiny-chinese.pdf))
+  - [Shiny Cheat Sheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf) ([中文版](http://www.rstudio.com/wp-content/uploads/2015/03/shiny-chinese.pdf))
 * [R Functions For Regression Analysis](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) by Vito Ricci
 * [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) by Matt Baggott
 * [R Reference Card for Data Mining](http://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf) by Yanchang Zhao
