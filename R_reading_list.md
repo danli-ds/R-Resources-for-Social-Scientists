@@ -181,7 +181,7 @@ Stowell, S. (2014). Using R for Statistics (pp. 1–232). Apress.
 
 Tableman, M., & Kim, J. S. (2004). Survival analysis using S. CRC Press.
 
-Teetor, P. (2011a). 25 Recipes for Getting Started with R. O'Reilly.
+~~Teetor, P. (2011a). 25 Recipes for Getting Started with R. O'Reilly.~~
 
 Teetor, P. (2011b). R Cookbook (pp. 1–436). O'Reilly.
 
