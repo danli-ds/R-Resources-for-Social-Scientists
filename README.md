@@ -36,7 +36,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [Practical Regression and Anova Using R](http://www.maths.bath.ac.uk/~jjf23/book/) ([PDF](http://www.maths.bath.ac.uk/~jjf23/book/pra.pdf)) by Julian Faraway
 * Multivariate Statistics with R ([PDF](http://local.disia.unifi.it/rampichini/analisi_multivariata/Hewson_notes.pdf)) by Paul Hewson
 * [learnR](http://renkun.me/learnR/index.html) by Yun Ken
-* [Introduction to Probability and Statistics Using R](http://ipsur.org/) by G. Jay Kerns
+* [Introduction to Probability and Statistics Using R (IPSUR)](http://ipsur.org/) by G. Jay Kerns
 * [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) ([PDF](http://people.math.umass.edu/~lavine/Book/book.pdf)) by Michael Lavine
 * [simpleR – Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) by John Verzani
 * [The Undergraduate Guide to R](https://sites.google.com/site/undergraduateguidetor/manual-files) ([PDF](https://sites.google.com/site/undergraduateguidetor/manual-files)) by Trevor Martin
