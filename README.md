@@ -107,6 +107,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [R by example](http://www.mayin.org/ajayshah/KB/R/) by Ajay Shah
 * [R language for programmers](http://www.johndcook.com/blog/r_language_for_programmers/) by John D. Cook
 * [Hands on dplyr tutorial](http://rpubs.com/justmarkham/dplyr-tutorial) for faster data manipulation in R by Kevin Markham
+* [R Examples Repository](http://www.uni-kiel.de/psychologie/rexrepos/index.html) by [Daniel Wollschlaeger](http://www.dwoll.de/)
 
 ### Video Tutorials
 
