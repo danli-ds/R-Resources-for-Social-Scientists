@@ -24,6 +24,12 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [The R Journal](http://journal.r-project.org/archive/) publishes research articles and summaries of major revisions.
 * [R FAQ](http://cran.r-project.org/doc/FAQ/R-FAQ.html) - Official list of R FAQs
 
+## Relevant CRAN Task Views for my research
+* [Graphic Displays & Dynamic Graphics & Graphic Devices & Visualization](https://cran.r-project.org/web/views/Graphics.html)
+* [Multivariate Statistics](https://cran.r-project.org/web/views/Multivariate.html)
+* [Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html)
+* [Statistics for the Social Sciences](https://cran.r-project.org/web/views/SocialSciences.html)
+
 ## Free Resources
 
 ### Free books on R
