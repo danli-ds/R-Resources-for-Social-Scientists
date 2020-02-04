@@ -29,6 +29,7 @@ This is my collection of resources related to [R](http://www.r-project.org/).
 * [Multivariate Statistics](https://cran.r-project.org/web/views/Multivariate.html)
 * [Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 * [Statistics for the Social Sciences](https://cran.r-project.org/web/views/SocialSciences.html)
+* [Psychometric Models and Methods](https://cran.r-project.org/web/views/Psychometrics.html)
 
 ## Free Resources
 
